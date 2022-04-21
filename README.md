@@ -1,3 +1,3 @@
 # GoogleCertFarm
 
-![Usage Image](CAPTURE.JPG)
+![Usage Image](Capture.PNG)
